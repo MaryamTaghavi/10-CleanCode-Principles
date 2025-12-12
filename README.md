@@ -43,6 +43,9 @@
   * How we can improve this ?
     <img width="514" height="171" alt="image" src="https://github.com/user-attachments/assets/b42de85e-910c-492a-96a6-a76da5634d49" />
 
+8) Suppose this code :
+<img width="441" height="171" alt="image" src="https://github.com/user-attachments/assets/a22cc02c-787b-421c-a5ed-42a63713d6f7" />
+
 
 
 
