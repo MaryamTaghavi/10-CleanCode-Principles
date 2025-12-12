@@ -25,4 +25,18 @@
   * How we can improve this ?
     <img width="320" height="186" alt="image" src="https://github.com/user-attachments/assets/afb67d23-da55-4736-8120-4bb3d523b4f1" />
 
+5) Suppose this code :
+<img width="496" height="252" alt="image" src="https://github.com/user-attachments/assets/a045b973-a5a5-44fe-9194-b096d08c7ce3" />
+
+  * How we can improve this ?
+    <img width="523" height="356" alt="image" src="https://github.com/user-attachments/assets/9fbac5ce-8fb1-4faa-ba25-5639ded3cb82" />
+
+6) Suppose this code :
+<img width="564" height="214" alt="image" src="https://github.com/user-attachments/assets/3411d9c0-ab3f-4a34-9c62-a141ce87d32e" />
+
+  * How we can improve this ?
+    <img width="564" height="214" alt="image" src="https://github.com/user-attachments/assets/2d25178d-1e83-49de-9c8a-111ba77de2bc" />
+
+
+
 
