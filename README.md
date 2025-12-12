@@ -37,6 +37,13 @@
   * How we can improve this ?
     <img width="564" height="214" alt="image" src="https://github.com/user-attachments/assets/2d25178d-1e83-49de-9c8a-111ba77de2bc" />
 
+7) Suppose this code :
+<img width="328" height="108" alt="image" src="https://github.com/user-attachments/assets/21bacc7c-b19d-463e-8607-217b7888a0af" />
+
+  * How we can improve this ?
+    <img width="514" height="171" alt="image" src="https://github.com/user-attachments/assets/b42de85e-910c-492a-96a6-a76da5634d49" />
+
+
 
 
 
