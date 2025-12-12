@@ -13,3 +13,9 @@
   * How we can improve that ?
     <img width="484" height="114" alt="image" src="https://github.com/user-attachments/assets/e928788e-9c9e-4c73-9124-c9fa78538d10" />
 
+3) suppose this code :
+<img width="647" height="305" alt="image" src="https://github.com/user-attachments/assets/40ee7e00-de52-4ef8-aa31-fede738b1d20" />
+
+  * How we can improve this ?
+    ![Uploading image.png…]()
+
