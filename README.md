@@ -13,9 +13,16 @@
   * How we can improve that ?
     <img width="484" height="114" alt="image" src="https://github.com/user-attachments/assets/e928788e-9c9e-4c73-9124-c9fa78538d10" />
 
-3) suppose this code :
+3) Suppose this code :
 <img width="645" height="433" alt="image" src="https://github.com/user-attachments/assets/b48afe91-0f30-4b88-b226-e962718d0528" />
 
   * How we can improve this ?
     <img width="648" height="309" alt="image" src="https://github.com/user-attachments/assets/0bc6f04a-f5ff-488e-990a-fa645ffd1570" />
+
+4) Suppose this code :
+<img width="364" height="190" alt="image" src="https://github.com/user-attachments/assets/2deb7cd0-dc85-48cd-9b0a-25a2872db33c" />
+
+  * How we can improve this ?
+    <img width="320" height="186" alt="image" src="https://github.com/user-attachments/assets/afb67d23-da55-4736-8120-4bb3d523b4f1" />
+
 
